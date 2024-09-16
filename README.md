@@ -9,7 +9,7 @@
 *INSTALL NODE*
 
 
-```bash <(curl https://raw.githubusercontent.com/Shinnstar/theme/main/installnode.sh)```
+```bash <(curl https://raw.githubusercontent.com/CELLOKIW/AUTO-INSTALL/main/installnode.sh)```
 
 *CHANGE PASSWORD*
 
