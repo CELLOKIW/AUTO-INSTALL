@@ -1,3 +1,5 @@
+*AUTO INSTALL THEMA*
+
 *INSTALL THEME*
 
 ```bash <(curl https://raw.githubusercontent.com/CELLOKIW/AUTO-INSTALL/main/install.sh)```
@@ -13,4 +15,4 @@
 
 *CHANGE PASSWORD*
 
-```bash <(curl https://raw.githubusercontent.com/Shinnstar/theme/main/passwd.sh)```
+```bash <(curl https://raw.githubusercontent.com/CELLOKIW/AUTO-INSTALL/main/passwd.sh)```
