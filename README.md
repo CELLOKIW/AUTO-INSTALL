@@ -4,7 +4,7 @@
 
 *INSTALL PANEL*
 
-```bash <(curl https://raw.githubusercontent.com/Shinnstar/theme/main/installpanelv2.sh)```
+```bash <(curl https://raw.githubusercontent.com/CELLOKIW/AUTO-INSTALL/main/installpanelv2.sh)```
 
 *INSTALL NODE*
 
