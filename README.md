@@ -1,6 +1,6 @@
 *INSTALL THEME*
 
-```bash <(curl https://raw.githubusercontent.com/Shinnstar/theme/main/install.sh)```
+```bash <(curl https://raw.githubusercontent.com/CELLOKIW/AUTO-INSTALL/main/install.sh)```
 
 *INSTALL PANEL*
 
